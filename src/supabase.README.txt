@@ -1,0 +1,2 @@
+Conservá tu archivo src/supabase.js actual en esta ubicación.
+Los services de esta refactorización lo importan desde ../supabase.js.
