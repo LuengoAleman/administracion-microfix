@@ -1,0 +1,12 @@
+Validación de modularización
+============================
+
+Resultado final:
+- JS/JSX syntax: OK (29 archivos)
+- node --test: 11/11 PASS
+- rutas de imports relativos: OK
+- imports/exports nombrados y default: OK
+- acceso Supabase desde UI: 0 llamadas directas
+
+Dependencia intencional no incluida:
+- src/supabase.js (debe conservarse el archivo existente del proyecto)
